@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Naitik, a developer.
+## Hi there 👋 I'm Naitik, a developer from Odisha, of course.
 
 
 
