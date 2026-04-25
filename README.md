@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Naitik, a developer from Odisha, of course.
+## Hi there 👋 I'm Naitik, a developer from Odisha!
+## I like to code BAT, HTML and Bootstrap
 
 
 
