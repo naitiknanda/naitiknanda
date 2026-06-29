@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my codingal projects
 <!--
 **naitiknanda/naitiknanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
